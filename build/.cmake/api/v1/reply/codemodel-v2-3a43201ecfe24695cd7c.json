@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TLD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LKTracker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LKTracker-Release-ab2ac39862006f668f7f.json",
+					"name" : "LKTracker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ferNN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ferNN-Release-37579c4f3e1be956d531.json",
+					"name" : "ferNN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_tld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_tld-Release-66d95badb824f7fb355e.json",
+					"name" : "run_tld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tld-Release-ff2b795f74fcc5f1b4e1.json",
+					"name" : "tld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tld_utils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tld_utils-Release-7cf55e13268e3bd5e29d.json",
+					"name" : "tld_utils",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wyz/codes/Collector/build",
+		"source" : "/home/wyz/codes/Collector/3rdparty/OpenTLD/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
