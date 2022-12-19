@@ -4,3 +4,6 @@
 [submodule "3rdparty/opencv"]
 	path = 3rdparty/opencv
 	url = https://github.com/SuperweedMan/opencv.git
+[submodule "3rdparty/pybind11"]
+	path = 3rdparty/pybind11
+	url = https://github.com/SuperweedMan/pybind11.git
