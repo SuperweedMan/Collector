@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/wyz/codes/Collector/3rdparty/OpenTLD/lib/libLKTracker.a CMakeFiles/LKTracker.dir/LKTracker.o
-/usr/bin/ranlib /home/wyz/codes/Collector/3rdparty/OpenTLD/lib/libLKTracker.a
